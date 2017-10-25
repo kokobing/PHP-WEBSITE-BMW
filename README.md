@@ -9,7 +9,7 @@ PHP-WEBSITE-BMW 该项目2012-6月完成上线，目前已经不在维护。
 
 主要应用技术：PHP,MYSQL,JQUERY,JQUERY MOBILE,HTML5,CSS3,JS
 
-|![](https://github.com/Kokolpb/PHP-WEBSITE-BMW/blob/master/1.jpg)  |![](https://github.com/Kokolpb/PHP-WEBSITE-BMW/blob/master/2.jpg)   |![](https://github.com/Kokolpb/PHP-WEBSITE-BMW/blob/master/3.jpg)   
+|![](https://github.com/Kokolpb/PHP-WEBSITE-BMW/blob/master/1.jpg)  |![](https://github.com/Kokolpb/PHP-WEBSITE-BMW/blob/master/3.jpg)   
 
 
 运行环境和下载地址 
