@@ -1,0 +1,74 @@
+
+.jcarousel-skin-tango .jcarousel-direction-rtl {
+	direction: rtl;
+}
+
+.jcarousel-skin-tango .jcarousel-container-horizontal {
+    width: 100%;
+    padding: 0 0px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.jcarousel-skin-tango .jcarousel-clip {
+    overflow: visible;
+}
+
+.jcarousel-skin-tango .jcarousel-clip-horizontal {
+    width:  100%;
+	margin: 0 auto;
+}
+
+
+.jcarousel-skin-tango .jcarousel-item {
+    text-align: center;
+}
+
+.jcarousel-skin-tango .jcarousel-item-horizontal {
+	margin: 0 0;
+}
+
+.jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-item-horizontal {
+	margin: 0 0;
+}
+
+.jcarousel-skin-tango .jcarousel-item-placeholder {
+    background: #fff;
+    color: #000;
+}
+
+/**
+ *  Horizontal Buttons
+ */
+.jcarousel-skin-tango .jcarousel-next-horizontal {
+    position: absolute;
+    top: 43px;
+    right: 5px;
+    width: 12px;
+    height: 32px;
+    cursor: pointer;
+    background: transparent url(/inc/pics/listArrow.png) no-repeat 0 0;
+}
+
+.jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-next-horizontal {
+    left: 5px;
+    right: auto;
+    background-image: url(/inc/pics/listArrowBack.png);
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal {
+    position: absolute;
+    top: 43px;
+    left: 5px;
+    width: 12px;
+    height: 32px;
+    cursor: pointer;
+    background: transparent url(/inc/pics/listArrow.png) no-repeat 0 0;
+}
+
+.jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-prev-horizontal {
+    left: auto;
+    right: 5px;
+    background-image: url(/inc/pics/listArrow.png);
+}
+
