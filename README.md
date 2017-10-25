@@ -1,9 +1,9 @@
 README
 ===========================
-PHP-WEBSITE-BMW a complete enterprise website, including the Frontend and Backend admin page.  Now uploaded in the Github warehouse because of the end of the project/product life cycle. The code is for learning only, and prohibits any business related behavior,website does not use any MVC framework,Frontend page UI use jquery mobile, very suitable for beginners PHP study.
+PHP-WEBSITE-BMW a complete enterprise website, including the Frontend and Backend admin page.  Now uploaded in the Github warehouse because of the end of the project/product life cycle. The code is for learning only, and prohibits any business related behavior,website does not use any MVC/CMS framework,Frontend page UI use jquery mobile, very suitable for beginners PHP study.
 
-PHP-WEBSITE-BMW 一个完整的企业网站，包括前台后台，因为项目产品生命周期完结，整理到仓库中以做总结，代码仅供学习，禁止任何与商业有关的行为！
-站点未用任何MVC框架,前端页面UI应用了JQUERY MOBILE框架技术，非常适合PHP初学者入门。  
+PHP-WEBSITE-BMW 一个完整的企业网站，包括前台后台，因为项目生命周期完结，整理到仓库中以做总结，代码仅供学习，禁止任何与商业有关的行为！
+站点前后端未用任何MVC框架、未用任何第三方CMS系统，不存在复杂的一堆看不明白的代码，全程序均手写，非常适合PHP初学者入门。   
 
 PHP-WEBSITE-BMW 该项目2012-6月完成上线，目前已经不在维护。  
 
